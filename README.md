@@ -39,7 +39,7 @@
 ## 5 Br 分割线
 - `.br`（暂时）高度为 0.54rem 的灰色分割线。
 ## 6 Backgroud Color 背景颜色
--`.bg-blue` <table><tr><td bgcolor=#00b4ff>#00b4ff</td></tr></table>
--`.bg-red`  <table><tr><td bgcolor=#ff5c5c>#ff5c5c</td></tr></table>
--`.bg-green` <table><tr><td bgcolor=#09ca7b>#09ca7b</td></tr></table>
--`bg-white` <table><tr><td bgcolor=#ffffff>#ffffff</td></tr></table>
+-`.bg-blue`
+-`.bg-red`
+-`.bg-green`
+-`bg-white`
