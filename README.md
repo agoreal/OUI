@@ -10,18 +10,18 @@
 ## 2. Layout 布局
 #### 2.1 弹性盒子
 ###### 2.1.1 方向
--`.flex-row` 水平方向
--`.flex-column` 垂直方向
+- `.flex-row` 水平方向
+- `.flex-column` 垂直方向
 ###### 2.1.2 换行
--`.flex-wrap` 超出宽度换行 
+- `.flex-wrap` 超出宽度换行 
 ###### 2.1.3 对齐
--`.flex-row-center` 水平居中 
--`.flex-row-end` 水平靠后 
--`.flex-row-around` space-around
--`.flex-row-between` space-between
--`.flex-column-center` 垂直居中
+- `.flex-row-center` 水平居中 
+- `.flex-row-end` 水平靠后 
+- `.flex-row-around` space-around
+- `.flex-row-between` space-between
+- `.flex-column-center` 垂直居中
 ###### 2.1.4 收缩
--`.flex-shrink-not` 保持原宽高，不收缩
+- `.flex-shrink-not` 保持原宽高，不收缩
 ## 3. Typography 字体
 #### 3.1 字号
 - `.font-s` 小号字体: 0.64rem;
@@ -39,7 +39,7 @@
 ## 5 Br 分割线
 - `.br`（暂时）高度为 0.54rem 的灰色分割线。
 ## 6 Backgroud Color 背景颜色
--`.bg-blue`
--`.bg-red`
--`.bg-green`
--`bg-white`
+- `.bg-blue` 蓝色背景： #00b4ff;
+- `.bg-red` 红色背景：#ff5c5c;
+- `.bg-green` 绿色背景：#09ca7b;
+- `bg-white` 白色背景：#ffffff;
