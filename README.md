@@ -1,5 +1,4 @@
-# OUI 
-<small>v0.0.1</small>
+# OUI  <small>v0.0.1</small>
 ---
 ## 0. Intro 介绍
 觅诚前端团队自己的 CSS 框架。
